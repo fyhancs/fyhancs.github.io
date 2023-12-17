@@ -26,7 +26,7 @@ My research interest includes neural machine translation and computer vision. I 
 - *2024.02*: &nbsp;🎉🎉 One paper is accepted by XX2024!. 
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
-
+@import "./news.md"
 
 # 📝 Publications 
 
