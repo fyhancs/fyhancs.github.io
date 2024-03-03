@@ -17,42 +17,36 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
+I am a 4-year PhD candidate of School of Computer Science and Technology at USTC (University of Science and Technology) under the supervision of Prof. Panlong Yang and Prof. Xiang-Yang Li (ACM/IEEE Fellow). My research interests span across mobile/wireless sensing, smart health monitoring, and ubiquitous computing. Researchers are welcome to contact me with E-mail and look forward to our cooperation to make meaningful research contributions! 
+
+# 📖 Educations
+- 2019.06 -  now: School of Computer Science and Technology at University of Science and Technology of China, PhD candidate.
+- 2015.09 - 2019.06: School of Computer Science and Engineering at Nanjing University of Science and Technology, Bachelor.
+
 
 # 🔥 News
 
-- *2024.02*: &nbsp;🎉🎉 One paper is accepted by XX2024!. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- [ 2023.10 ]  🎉🎉 One paper was accepted by **ACM TOSN**! 
+- [ 2023.06 ]  🎉🎉 One paper was accepted by **IEEE TMC**! 
+- [ 2022.12 ]  🎉🎉 One paper was accepted by **IEEE INFOCOM 2023**! 
+- [ 2022.09 ]  🎉🎉 One paper was accepted by **ACM SenSys 2023**! 
 
 
 
-# 📝 Publications 
+# 📝 Publications
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
-
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-</div>
-</div>
-
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+- **Youwei Zhang$^\*$**, **Feiyu Han$^\*$**(Co-first Author),  Panlong Yang, Yuanhao Feng, Yubo Yan, Ran Guan. "Wi-Cyclops: Room-Scale WiFi Sensing System for Respiration Detection Based on Single-Antenna", *ACM Transactions on Sensor Networks (TOSN).*
+- **Feiyu Han**, Panlong Yang, Haohua Du, Xiang-Yang Li.  "*Accuth$^+$: Accelerometer-based Anti-Spoofing Voice Authentication on Wrist-worn Wearables*", *IEEE Transactions on Mobile Computing (IEEE TMC).*
+- **Feiyu Han**, Panlong Yang, Shaojie Yan, Haohua Du, Yuanhao Feng. *"BreathSign: Transparent and Continuous In-ear Authentication Using Bone-conducted Breathing Biometrics", IEEE INFOCOM 2023.* 
+- **Feiyu Han**, Panlong Yang, Haohua Du, Xiang-Yang Li. *"Accuth: Anti-Spoofing Voice Authentication via Accelerometer", ACM SenSys 2022*
+- Xiaotian Fan, Yubo Yan, Panlong Yang, **Feiyu Han**. *"CMSS: Use low-power iot cameras to monitor store shelves", IEEE BIGCOM 2021*.
+- **Feiyu Han**, Chengchen Wan, Panlong Yang, Hao Zhang, Yubo Yan, Xiang Cui. *"ACE: Accurate and automatic CSI error calibration for wireless localization system", IEEE BIGCOM 2020*.
+- Chengchen Wan, **Feiyu Han**, Pengfei Liu, Hao Zhang, Yubo Yan, Panlong Yang. *"iLoc: Non-invasive Localization for Mobile Devices with COTS WiFi Access Points", IEEE BIGCOM 2020.*
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- GuoRui Scholarship 2023
+- Intel China Fellowship 2022
+- Huawei ICT Innovcation Competition 2019-2020 Global Final Second Prize 
 
-# 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
-
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.

@@ -6,7 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Feiyu Han"
+title                    : "Feiyu Han @USTC (韩飞宇)"
 description              : "PhD Candidate@USTC"
 repository               : 
 google_scholar_stats_use_cdn : false 
@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Feiyu Han"
   avatar           : "images/personal_feiyu.png"
-  bio              : ""
+  bio              : "Mobile and Wireless Sensing, Ubiquitous Computing, and AI for Sensing."
   location         : "Heifei, Anhui, China"
   employer         : 
   pubmed           : 
