@@ -26,6 +26,7 @@ I am a 4-year PhD candidate of School of Computer Science and Technology at USTC
 
 # 🔥 News
 
+- [ 2024.03 ]  🎉🎉 One paper was conditionally accepted by **ACM MobiSys 2024**! 
 - [ 2023.10 ]  🎉🎉 One paper was accepted by **ACM TOSN**! 
 - [ 2023.06 ]  🎉🎉 One paper was accepted by **IEEE TMC**! 
 - [ 2022.12 ]  🎉🎉 One paper was accepted by **IEEE INFOCOM 2023**! 
@@ -48,5 +49,4 @@ I am a 4-year PhD candidate of School of Computer Science and Technology at USTC
 - GuoRui Scholarship 2023
 - Intel China Fellowship 2022
 - Huawei ICT Innovcation Competition 2019-2020 Global Final Second Prize 
-
 
