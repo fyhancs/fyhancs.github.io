@@ -46,7 +46,7 @@ I am a 4-year PhD candidate of School of Computer Science and Technology at USTC
 - Chengchen Wan, **Feiyu Han**, Pengfei Liu, Hao Zhang, Yubo Yan, Panlong Yang. *"iLoc: Non-invasive Localization for Mobile Devices with COTS WiFi Access Points", IEEE BIGCOM 2020.*
 
 # 🎖 Honors and Awards
-- GuoRui Scholarship 2023
+- GuoRui Scholarship 2023 
 - Intel China Fellowship 2022
 - Huawei ICT Innovcation Competition 2019-2020 Global Final Second Prize 
 
