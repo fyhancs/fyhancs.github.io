@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a final-year PhD candidate of School of Computer Science and Technology at USTC (University of Science and Technology of China) under the supervision of Prof. Panlong Yang and Prof. Xiang-Yang Li (ACM/IEEE Fellow). My research interests span across mobile/wireless sensing, smart health monitoring, and ubiquitous computing. Researchers are welcome to contact me with E-mail and look forward to our cooperation to make meaningful research contributions! 
+I am Feiyu Han, a final-year PhD candidate of School of Computer Science and Technology at USTC (University of Science and Technology of China) under the supervision of Prof. Panlong Yang and Prof. Xiang-Yang Li (ACM/IEEE Fellow). My research interests span across mobile/wireless sensing, smart health monitoring, and ubiquitous computing. Researchers are welcome to contact me with E-mail and look forward to our cooperation to make meaningful research contributions! 
 
 # 📖 Educations
 - 2019.06 -  now: School of Computer Science and Technology at University of Science and Technology of China, PhD candidate.
