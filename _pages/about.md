@@ -25,20 +25,17 @@ I am Feiyu Han, a final-year PhD candidate of School of Computer Science and Tec
 
 
 # 🔥 News
+- [ 2024.07 ]  🎉🎉 One paper about earphone-based speech enhancement was accepted by **ACM IMWUT/Ubicomp 2024**. 
 - [ 2024.04 ]  🎉🎉 One paper about earbud-based sleep monitoring was accepted by **ACM IMWUT/Ubicomp 2024**. One paper about WiFi-based cross-domain localization was accepted by **IEEE IoT Journal**. One Paper about WiFi backscatter was accepted by **IEEE IWQOS 2024**. Congratulations to all collaborators!
 - [ 2024.03 ]  🎉🎉 One paper about WiFi backscatter was accepted by **ACM MobiSys 2024**! 
 - [ 2023.10 ]  🎉🎉 One paper about WiFi-based respiration detection was accepted by **ACM TOSN**! 
-- [ 2023.06 ]  🎉🎉 One paper was accepted by **IEEE TMC**! 
-- [ 2022.12 ]  🎉🎉 One paper about continuous breathing-based authentication was accepted by **IEEE INFOCOM 2023**! 
-- [ 2022.09 ]  🎉🎉 One paper about accelerometer-based voice authentication was accepted by **ACM SenSys 2022**! 
-
-
 
 # 📝 Publications
 
+- **Feiyu Han**, Panlong Yang, You Zuo, Fei Shang, Xiang-Yang Li. "EarSpeech: Exploring In-Ear Occlusion Effect on Earphones For
+  Data-efficient Airborne Speech Enhancement", *ACM Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (ACM IMWUT/Ubicomp 2024)*. 🚀[Demo and Code](https://github.com/EarSpeech/earspeech.github.io/)
 - Shanyue Wang, **Feiyu Han**, Yubo Yan, Yuxin Ding, Panlong Yang, Xiang-Yang Li. "Slickscatter: Help WiFi Backscatter Signal Survive from the Unknown Interferences", IEEE/ACM International Symposium on Quality of Service (IWQOS 2024)*.
 - Dawei Yan, Fei Shang, Panlong Yang, **Feiyu Han**, Yubo Yan, Xiang-Yang Li. "freeLoc: Wireless-based Cross-Domain Device-free Fingerprints Localization to free User's Motions", *IEEE Internet of Things Journal*.
-
 - **Feiyu Han**, Panlong Yang, Yuanhao Feng, Weiwei Jiang, Youwei Zhang, Xiang-Yang Li. "EarSleep: In-ear Acoustic-based Physical and Physiological Activity Recognition for Sleep Stage Detection", *ACM Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (ACM IMWUT/Ubicomp 2024)*.  📹[Video Demo](https://www.youtube.com/watch?v=23MpIv_BaVc&t=5s)
 - Shanyue Wang, Yubo Yan, **Feiyu Han**, Ye Tian, Yuxin Ding, Panlong Yang, Xiang-Yang Li. "MultiRider: Enabling Multi-Tag Concurrent OFDM Backscatter by Taming In-band Interferences", *The 22nd ACM International Conference on Mobile Systems, Applications, and Services. (ACM MobiSys 2024)*
 - **Youwei Zhang$^\*$**, **Feiyu Han$^\*$**(Co-first Author),  Panlong Yang, Yuanhao Feng, Yubo Yan, Ran Guan. "Wi-Cyclops: Room-Scale WiFi Sensing System for Respiration Detection Based on Single-Antenna", *ACM Transactions on Sensor Networks (TOSN).*
