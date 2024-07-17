@@ -46,7 +46,7 @@ I am Feiyu Han, a final-year PhD candidate of School of Computer Science and Tec
 
 - <mark><strong><font color=blue size=3 face="courier New"> [ACM IMWUT/Ubicomp 2024]</font></strong></mark>  EarSleep: In-ear Acoustic-based Physical and Physiological Activity Recognition for Sleep Stage Detection\, *Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies*.  
 
-  **Feiyu Han**, Panlong Yang, Yuanhao Feng, Weiwei Jiang, Youwei Zhang, Xiang-Yang Li. 📹[Video Demo](https://www.youtube.com/watch?v=23MpIv_BaVc&t=5s)
+  **Feiyu Han**, Panlong Yang, Yuanhao Feng, Weiwei Jiang, Youwei Zhang, Xiang-Yang Li. [[Demo]](https://www.youtube.com/watch?v=23MpIv_BaVc&t=5s)
 
 - <mark><strong><font color=blue size=3 face="courier New"> [ACM MobiSys 2024]</font></strong></mark>  MultiRider: Enabling Multi-Tag Concurrent OFDM Backscatter by Taming In-band Interferences. *The 22nd ACM International Conference on Mobile Systems, Applications, and Services.*
 
