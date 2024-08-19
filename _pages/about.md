@@ -33,7 +33,7 @@ I am Feiyu Han, a final-year PhD candidate of School of Computer Science and Tec
 
   Dawei Yan, Panlong Yang, Fei Shang, **Feiyu Han**, Yubo Yan, Xiang-Yang Li. |
 
-- <strong><font color=blue size=4 face="courier New"> [ACM IMWUT/Ubicomp 2024]</font></strong> EarSpeech: Exploring In-Ear Occlusion Effect on Earphones For Data-efficient Airborne Speech Enhancement. *Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies*. [[PDF]](https://github.com/fyhancs/fyhancs.github.io/blob/main/_pdf/earspeech_2024.pdf)[[Demo]](https://github.com/EarSpeech/earspeech.github.io/)  [[Code]](https://github.com/EarSpeech/earspeech.github.io/)
+- <strong><font color=blue size=4 face="courier New"> [ACM IMWUT/Ubicomp 2024]</font></strong> EarSpeech: Exploring In-Ear Occlusion Effect on Earphones For Data-efficient Airborne Speech Enhancement. *Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies*. <a href="fyhancs.github.io/_pdf/earspeech_2024.pdf" target="_blank">[PDF]</a> [[Demo]](https://github.com/EarSpeech/earspeech.github.io/)  [[Code]](https://github.com/EarSpeech/earspeech.github.io/)
 
   **Feiyu Han**, Panlong Yang, You Zuo, Fei Shang, Fenglei Xu, Xiang-Yang Li.    |
 
