@@ -19,12 +19,9 @@ redirect_from:
 
 I am Feiyu Han, a final-year PhD candidate of School of Computer Science and Technology at USTC (University of Science and Technology of China) under the supervision of Prof. Panlong Yang and Prof. Xiang-Yang Li (ACM/IEEE Fellow). My research interests span across mobile/wireless sensing, smart health monitoring, and ubiquitous computing. Researchers are welcome to contact me with E-mail and look forward to our cooperation to make meaningful research contributions! 
 
-# 📖 Educations
-- 2019.06 -  2024.06: School of Computer Science and Technology at University of Science and Technology of China, PhD.
-- 2015.09 - 2019.06: School of Computer Science and Engineering at Nanjing University of Science and Technology, Bachelor.
 
-
-# 🔥 News
+# 📰 News
+- [ 2024.08 ]  🎉🎉 One paper about wireless-based gait recognition was accepted by **ACM MobiHoc 2024**. 
 - [ 2024.07 ]  🎉🎉 One paper about earphone-based speech enhancement was accepted by **ACM IMWUT/Ubicomp 2024**. 
 - [ 2024.04 ]  🎉🎉 One paper about earbud-based sleep monitoring was accepted by **ACM IMWUT/Ubicomp 2024**. One paper about WiFi-based cross-domain localization was accepted by **IEEE IoT Journal**. One Paper about WiFi backscatter was accepted by **IEEE IWQOS 2024**. Congratulations to all collaborators!
 - [ 2024.03 ]  🎉🎉 One paper about WiFi backscatter was accepted by **ACM MobiSys 2024**! 
@@ -32,55 +29,64 @@ I am Feiyu Han, a final-year PhD candidate of School of Computer Science and Tec
 
 # 📝 Publications
 
-- <mark><strong><font color=blue size=3 face="courier New"> [ACM IMWUT/Ubicomp 2024]</font></strong></mark> EarSpeech: Exploring In-Ear Occlusion Effect on Earphones For Data-efficient Airborne Speech Enhancement. *Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies.* 
+- <strong><font color=blue size=4 face="courier New"> [ACM MobiHoc 2024]</font></strong> freeGait: Liberalizing Wireless-based Gait Recognition to Mitigate Non-gait Human Behaviors. *The 25th International Symposium on Theory, Algorithmic Foundations, and Protocol Design for Mobile Networks and Mobile Computing.* 
 
-  **Feiyu Han**, Panlong Yang, You Zuo, Fei Shang, Fenglei Xu, Xiang-Yang Li.   [[Demo]](https://github.com/EarSpeech/earspeech.github.io/)  [[Code]](https://github.com/EarSpeech/earspeech.github.io/)
+  Dawei Yan, Panlong Yang, Fei Shang, **Feiyu Han**, Yubo Yan, Xiang-Yang Li. |
 
-- <mark><strong><font color=blue size=3 face="courier New"> [IEEE IWQOS 2024]</font></strong></mark> Slickscatter: Help WiFi Backscatter Signal Survive from the Unknown Interferences. *IEEE/ACM International Symposium on Quality of Service.* 
+- <strong><font color=blue size=4 face="courier New"> [ACM IMWUT/Ubicomp 2024]</font></strong> EarSpeech: Exploring In-Ear Occlusion Effect on Earphones For Data-efficient Airborne Speech Enhancement. *Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies*. [[Demo]](https://github.com/EarSpeech/earspeech.github.io/)  [[Code]](https://github.com/EarSpeech/earspeech.github.io/)
 
-  Shanyue Wang, **Feiyu Han**, Yubo Yan, Yuxin Ding, Panlong Yang, Xiang-Yang Li.
+  **Feiyu Han**, Panlong Yang, You Zuo, Fei Shang, Fenglei Xu, Xiang-Yang Li.    |
 
-- <mark><strong><font color=blue size=3 face="courier New"> [IEEE IOTJ 2024]</font></strong></mark> freeLoc: Wireless-based Cross-Domain Device-free Fingerprints Localization to free User's Motions. *IEEE Internet of Things Journal*.
+- <strong><font color=blue size=4 face="courier New"> [IEEE IWQOS 2024]</font></strong> Slickscatter: Help WiFi Backscatter Signal Survive from the Unknown Interferences. *IEEE/ACM International Symposium on Quality of Service.* [[PDF]](./pdf/earspeech_2024.pdf)
 
-  Dawei Yan, Fei Shang, Panlong Yang, **Feiyu Han**, Yubo Yan, Xiang-Yang Li. 
+  Shanyue Wang, **Feiyu Han**, Yubo Yan, Yuxin Ding, Panlong Yang, Xiang-Yang Li. |
 
-- <mark><strong><font color=blue size=3 face="courier New"> [ACM IMWUT/Ubicomp 2024]</font></strong></mark>  EarSleep: In-ear Acoustic-based Physical and Physiological Activity Recognition for Sleep Stage Detection\, *Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies*.  
+- <strong><font color=blue size=4 face="courier New"> [IEEE IOTJ 2024]</font></strong> freeLoc: Wireless-based Cross-Domain Device-free Fingerprints Localization to free User's Motions. *IEEE Internet of Things Journal*. *IEEE Internet of Things Journal*. [[PDF]](https://ieeexplore.ieee.org/document/10506982)
 
-  **Feiyu Han**, Panlong Yang, Yuanhao Feng, Weiwei Jiang, Youwei Zhang, Xiang-Yang Li. [[Demo]](https://www.youtube.com/watch?v=23MpIv_BaVc&t=5s)
+  Dawei Yan, Fei Shang, Panlong Yang, **Feiyu Han**, Yubo Yan, Xiang-Yang Li. |
 
-- <mark><strong><font color=blue size=3 face="courier New"> [ACM MobiSys 2024]</font></strong></mark>  MultiRider: Enabling Multi-Tag Concurrent OFDM Backscatter by Taming In-band Interferences. *The 22nd ACM International Conference on Mobile Systems, Applications, and Services.* 
+- <strong><font color=blue size=4 face="courier New"> [ACM IMWUT/Ubicomp 2024]</font></strong>  EarSleep: In-ear Acoustic-based Physical and Physiological Activity Recognition for Sleep Stage Detection.  *Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies*. [[PDF]](https://dl.acm.org/doi/10.1145/3659595)  [[Demo]](https://www.youtube.com/watch?v=23MpIv_BaVc&t=5s) 
 
-  Shanyue Wang, Yubo Yan, **Feiyu Han**, Ye Tian, Yuxin Ding, Panlong Yang, Xiang-Yang Li. 
+  **Feiyu Han**, Panlong Yang, Yuanhao Feng, Weiwei Jiang, Youwei Zhang, Xiang-Yang Li.|
 
-- <mark><strong><font color=blue size=3 face="courier New"> [ACM TOSN 2023]</font></strong></mark> Wi-Cyclops: Room-Scale WiFi Sensing System for Respiration Detection Based on Single-Antenna, *ACM Transactions on Sensor Networks (TOSN).*
+- <strong><font color=blue size=4 face="courier New"> [ACM MobiSys 2024]</font></strong> MultiRider: Enabling Multi-Tag Concurrent OFDM Backscatter by Taming In-band Interferences.  *The 22nd ACM International Conference on Mobile Systems, Applications, and Services.* [[PDF]](https://dl.acm.org/doi/10.1145/3643832.3661862)
 
-  **Youwei Zhang$^\*$**, **Feiyu Han$^\*$**(Co-first Author),  Panlong Yang, Yuanhao Feng, Yubo Yan, Ran Guan. 
+  Shanyue Wang, Yubo Yan, **Feiyu Han**, Ye Tian, Yuxin Ding, Panlong Yang, Xiang-Yang Li. |
 
-- <mark><strong><font color=blue size=3 face="courier New"> [IEEE TMC 2023]</font></strong></mark> Accuth$^+$: Accelerometer-based Anti-Spoofing Voice Authentication on Wrist-worn Wearables. *IEEE Transactions on Mobile Computing.*
+- <strong><font color=blue size=4 face="courier New"> [ACM TOSN 2023]</font></strong> Wi-Cyclops: Room-Scale WiFi Sensing System for Respiration Detection Based on Single-Antenna, *ACM Transactions on Sensor Networks (TOSN).*[[PDF]](https://dl.acm.org/doi/10.1145/3632958)
 
-  **Feiyu Han**, Panlong Yang, Haohua Du, Xiang-Yang Li. "
+  **Youwei Zhang$^\*$**, **Feiyu Han$^\*$**(Co-first Author),  Panlong Yang, Yuanhao Feng, Yubo Yan, Ran Guan. |
 
-- <mark><strong><font color=blue size=3 face="courier New"> [IEEE INFOCOM 2023]</font></strong></mark>  BreathSign: Transparent and Continuous In-ear Authentication Using Bone-conducted Breathing Biometrics. *IEEE Conference on Computer Communications.*
+- <strong><font color=blue size=4 face="courier New"> [IEEE TMC 2023]</font></strong>Accuth$^+$: Accelerometer-based Anti-Spoofing Voice Authentication on Wrist-worn Wearables. *IEEE Transactions on Mobile Computing.* [[PDF]](https://ieeexplore.ieee.org/document/10250998)
 
-  **Feiyu Han**, Panlong Yang, Shaojie Yan, Haohua Du, Yuanhao Feng. 
+  **Feiyu Han**, Panlong Yang, Haohua Du, Xiang-Yang Li. " |
 
-- <mark><strong><font color=blue size=3 face="courier New"> [ACM SenSys 2022]</font></strong></mark>  Accuth: Anti-Spoofing Voice Authentication via Accelerometer. The 20th ACM Conference on Embedded Networked Sensor Systems (ACM SenSys 2022).
+- <strong><font color=blue size=4 face="courier New"> [IEEE INFOCOM 2023]</font></strong>BreathSign: Transparent and Continuous In-ear Authentication Using Bone-conducted Breathing Biometrics. *IEEE Conference on Computer Communications.* [[PDF]](https://ieeexplore.ieee.org/document/10229037)
 
-  **Feiyu Han**, Panlong Yang, Haohua Du, Xiang-Yang Li. 
+  **Feiyu Han**, Panlong Yang, Shaojie Yan, Haohua Du, Yuanhao Feng. |
 
-- <mark><strong><font color=blue size=3 face="courier New"> [IEEE BIGCOM 2021]</font></strong></mark> CMSS: Use low-power iot cameras to monitor store shelves. *The 7th International Conference on Big Data Computing and Communications.*
+- <strong><font color=blue size=4 face="courier New"> [ACM SenSys 2022]</font></strong>  Accuth: Anti-Spoofing Voice Authentication via Accelerometer. The 20th ACM Conference on Embedded Networked Sensor Systems. [[PDF]](https://dl.acm.org/doi/abs/10.1145/3560905.3568522)
 
-  Xiaotian Fan, Yubo Yan, Panlong Yang, **Feiyu Han**. 
+  **Feiyu Han**, Panlong Yang, Haohua Du, Xiang-Yang Li. |
 
-- <mark><strong><font color=blue size=3 face="courier New"> [IEEE BIGCOM 2020]</font></strong></mark>  ACE: Accurate and automatic CSI error calibration for wireless localization system. *The 6th International Conference on Big Data Computing and Communications.*
+- <strong><font color=blue size=4 face="courier New"> [IEEE BIGCOM 2021]</font></strong> CMSS: Use low-power iot cameras to monitor store shelves. *The 7th International Conference on Big Data Computing and Communications.*
 
-  **Feiyu Han**, Chengchen Wan, Panlong Yang, Hao Zhang, Yubo Yan, Xiang Cui. 
+  Xiaotian Fan, Yubo Yan, Panlong Yang, **Feiyu Han**. |
 
-- <mark><strong><font color=blue size=3 face="courier New"> [IEEE BIGCOM 2020]</font></strong></mark> iLoc: Non-invasive Localization for Mobile Devices with COTS WiFi Access Points, *The 6th International Conference on Big Data Computing and Communications.*
+- <strong><font color=blue size=4 face="courier New"> [IEEE BIGCOM 2020]</font></strong>ACE: Accurate and automatic CSI error calibration for wireless localization system. *The 6th International Conference on Big Data Computing and Communications.*
 
-  Chengchen Wan, **Feiyu Han**, Pengfei Liu, Hao Zhang, Yubo Yan, Panlong Yang. 
+  **Feiyu Han**, Chengchen Wan, Panlong Yang, Hao Zhang, Yubo Yan, Xiang Cui. |
+
+- <strong><font color=blue size=4 face="courier New"> [IEEE BIGCOM 2020]</font></strong> iLoc: Non-invasive Localization for Mobile Devices with COTS WiFi Access Points, *The 6th International Conference on Big Data Computing and Communications.*
+
+  Chengchen Wan, **Feiyu Han**, Pengfei Liu, Hao Zhang, Yubo Yan, Panlong Yang. |
 
 # 🎖 Honors and Awards
 - GDC Scholarship 2023 
 - Intel China Fellowship 2022
 - Huawei ICT Innovcation Competition 2019-2020 Global Final Second Prize 
+
+# 📖 Educations
+
+- 2019.06 -  2024.06: School of Computer Science and Technology at University of Science and Technology of China, PhD.
+- 2015.09 - 2019.06: School of Computer Science and Engineering at Nanjing University of Science and Technology, Bachelor.
