@@ -4,11 +4,11 @@
 
   Dawei Yan, Panlong Yang, Fei Shang, **Feiyu Han**, Yubo Yan, Xiang-Yang Li. |
 
-- <strong><font color=blue size=4 face="courier New"> [ACM IMWUT/Ubicomp 2024]</font></strong> EarSpeech: Exploring In-Ear Occlusion Effect on Earphones For Data-efficient Airborne Speech Enhancement. *Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies*. <a href="fyhancs.github.io/_pdf/earspeech_2024.pdf" target="_blank">[PDF]</a> [[Demo]](https://github.com/EarSpeech/earspeech.github.io/)  [[Code]](https://github.com/EarSpeech/earspeech.github.io/)
+- <strong><font color=blue size=4 face="courier New"> [ACM IMWUT/Ubicomp 2024]</font></strong> EarSpeech: Exploring In-Ear Occlusion Effect on Earphones For Data-efficient Airborne Speech Enhancement. *Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies*. [[PDF]](././files/earspeech_2024.pdf) [[Demo]](https://github.com/EarSpeech/earspeech.github.io/)  [[Code]](https://github.com/EarSpeech/earspeech.github.io/)
 
   **Feiyu Han**, Panlong Yang, You Zuo, Fei Shang, Fenglei Xu, Xiang-Yang Li.    |
 
-- <strong><font color=blue size=4 face="courier New"> [IEEE IWQOS 2024]</font></strong> Slickscatter: Help WiFi Backscatter Signal Survive from the Unknown Interferences. *IEEE/ACM International Symposium on Quality of Service.* [[PDF]](././files/earspeech_2024.pdf)
+- <strong><font color=blue size=4 face="courier New"> [IEEE IWQOS 2024]</font></strong> Slickscatter: Help WiFi Backscatter Signal Survive from the Unknown Interferences. *IEEE/ACM International Symposium on Quality of Service.* [[PDF]](././files/slickscatter_2024.pdf)
 
   Shanyue Wang, **Feiyu Han**, Yubo Yan, Yuxin Ding, Panlong Yang, Xiang-Yang Li. |
 
