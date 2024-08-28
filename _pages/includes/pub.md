@@ -1,5 +1,9 @@
 # 📝 Publications
 
+- <strong><font color=blue size=4 face="courier New">[IEEE TMC 2024]</font></strong> Exploring Earable-based Passive User Authentication via Interpretable In-ear Breathing Biometrics. *IEEE Transactions on Mobile Computing.*
+
+  **Feiyu Han**, Panlong Yang, Yuanhao Feng, Haohua Du, Xiang-Yang Li. |
+
 - <strong><font color=blue size=4 face="courier New"> [ACM MobiHoc 2024]</font></strong> freeGait: Liberalizing Wireless-based Gait Recognition to Mitigate Non-gait Human Behaviors. *The 25th International Symposium on Theory, Algorithmic Foundations, and Protocol Design for Mobile Networks and Mobile Computing.* 
 
   Dawei Yan, Panlong Yang, Fei Shang, **Feiyu Han**, Yubo Yan, Xiang-Yang Li. |
