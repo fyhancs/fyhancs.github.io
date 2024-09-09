@@ -6,8 +6,8 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Feiyu Han | USTC (韩飞宇)"
-description              : "USTC"
+title                    : "Feiyu Han"
+description              : "@NUIST"
 repository               : "fyhancs/fyhancs.github.io"
 google_scholar_stats_use_cdn : false 
 
@@ -24,7 +24,7 @@ author:
   name             : "Feiyu Han"
   avatar           : "images/personal_feiyu.png"
   bio              : "Mobile and Wireless Sensing, Ubiquitous Computing, and AI for Sensing."
-  location         : "Hefei, Anhui, China"
+  location         : "Nanjing, Jiangsu, China"
   employer         : 
   pubmed           : 
   googlescholar    : #"https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"

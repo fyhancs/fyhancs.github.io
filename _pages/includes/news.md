@@ -1,4 +1,4 @@
-# 📰 News
+# - News
 
 - [ 2024.08 ]  🎉🎉 One paper about earable passive user authentication was accept by **IEEE TMC**! One paper about wireless-based gait recognition was accepted by **ACM MobiHoc 2024**. 
 - [ 2024.07 ]  🎉🎉 One paper about earable-based speech enhancement was accepted by **ACM IMWUT/Ubicomp 2024**. 

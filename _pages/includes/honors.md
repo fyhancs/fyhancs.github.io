@@ -1,4 +1,4 @@
-# 🎖 Honors and Awards
+# - Honors and Awards
 
 - GDC Scholarship 2023 
 - Intel China Fellowship 2022
