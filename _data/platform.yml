@@ -1,0 +1,28 @@
+main:
+  # - title: "Mnemonics Training: Multi-Class Incremental Learning without Forgetting"
+  #   authors: <strong>Yaoyao Liu</strong>, Yuting Su, An-An Liu, Bernt Schiele, Qianru Sun
+  #   conference_short: CVPR
+  #   conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2020.
+  #   pdf: https://arxiv.org/pdf/2002.10211.pdf
+  #   code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
+  #   page: https://class-il.mpi-inf.mpg.de/mnemonics/
+  #   bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
+  #   notes: Oral Presentation
+  #   image: ./assets/img/teaser_example.png
+
+  - title: "Mobile and wearable sensing platform."
+    contributors: "Fusing sensing modalities on mobile or wearable devices for HAR." 
+    descriptions: 
+    image: ./assets/img/wearable_platform_1.png
+
+  - title: "Sleep health monitoring platform."
+    contributors: "Earable-based sleep activity monitoring and health analysis."
+    descriptions: 
+    image: ./assets/img/health_platform_1.png
+
+  - title: "Wireless sensing platform"
+    contributors: "RF signal (WiFi, mmWave) for localization, material recognition, and HAR."
+    descriptions: 
+    image: ./assets/img/wireless_platform_1.png
+
+  

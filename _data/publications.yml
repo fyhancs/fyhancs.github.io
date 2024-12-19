@@ -1,22 +1,72 @@
 main:
+  # - title: "Mnemonics Training: Multi-Class Incremental Learning without Forgetting"
+  #   authors: <strong>Yaoyao Liu</strong>, Yuting Su, An-An Liu, Bernt Schiele, Qianru Sun
+  #   conference_short: CVPR
+  #   conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2020.
+  #   pdf: https://arxiv.org/pdf/2002.10211.pdf
+  #   code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
+  #   page: https://class-il.mpi-inf.mpg.de/mnemonics/
+  #   bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
+  #   notes: Oral Presentation
+  #   image: ./assets/img/teaser_example.png
 
-  - title: Continual Learning for Abdominal Multi-Organ and Tumor Segmentation
-    authors: Yixiao Zhang, Xinyi Li, Huimiao Chen, Alan Yuille, <strong>Yaoyao Liu*</strong>, Zongwei Zhou* (*Corresponding authors)
-    conference_short: MICCAI
-    conference: International Conference on Medical Image Computing and Computer-Assisted Intervention <strong>(MICCAI)</strong>, 2023.
-    pdf: https://arxiv.org/pdf/2306.00988.pdf
-    code: https://github.com/MrGiovanni/ContinualLearning
-    bibtex: https://bib.yliu.me/MICCAI23.txt
-    image: ./assets/img/teaser_example_2.png
-    notes: Early Accept
+  - title: "Exploring Earable-based Passive User Authentication via Interpretable In-ear Breathing Biometrics."
+    authors: <strong>Feiyu Han</strong>, Panlong Yang, Yuanhao Feng, Haohua Du, Xiang-Yang Li.
+    conference: <strong>IEEE TMC 2024, <font color="#FF0000">CCF-A Journal</font>. </strong> 
+    pdf: https://ieeexplore.ieee.org/abstract/document/10663927
 
-  - title: "Mnemonics Training: Multi-Class Incremental Learning without Forgetting"
-    authors: <strong>Yaoyao Liu</strong>, Yuting Su, An-An Liu, Bernt Schiele, Qianru Sun
-    conference_short: CVPR
-    conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2020.
-    pdf: https://arxiv.org/pdf/2002.10211.pdf
-    code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
-    page: https://class-il.mpi-inf.mpg.de/mnemonics/
-    bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
-    notes: Oral Presentation
-    image: ./assets/img/teaser_example.png
+  - title: "freeGait: Liberalizing Wireless-based Gait Recognition to Mitigate Non-gait Human Behaviors."
+    authors: Dawei Yan, Panlong Yang, Fei Shang, <strong>Feiyu Han</strong>, Yubo Yan, Xiang-Yang Li. 
+    conference: <strong>ACM MobicHoc 2024, <font color="#FF0000">CCF-B Conference</font>. </strong> 
+    pdf: https://dl.acm.org/doi/10.1145/3641512.3686362
+  - title: "EarSpeech: Exploring In-Ear Occlusion Effect on Earphones For Data-efficient Airborne Speech Enhancement."
+    authors: <strong>Feiyu Han</strong>, Panlong Yang, You Zuo, Fei Shang, Fenglei Xu, Xiang-Yang Li.
+    conference: <strong>ACM IMWUT/Ubicomp 2024, <font color="#FF0000">CCF-A Conference</font></strong>. 
+    pdf: https://dl.acm.org/doi/10.1145/3678594
+    page: https://github.com/EarSpeech/earspeech.github.io
+    slide: ./assets/files/imwut-EarSpeech-han.pdf
+
+  - title: "Slickscatter: Help WiFi Backscatter Signal Survive from the Unknown Interferences."
+    authors: Shanyue Wang, <strong>Feiyu Han</strong>, Yubo Yan, Yuxin Ding, Panlong Yang, Xiang-Yang Li.
+    conference: <strong>IEEE IWQOS 2024, <font color="#FF0000">CCF-B Conference</font></strong>. 
+    pdf: https://ieeexplore.ieee.org/document/10682943
+    # page: https://github.com/EarSpeech/earspeech.github.io
+
+  - title: "freeLoc: Wireless-based Cross-Domain Device-free Fingerprints Localization to free User's Motions."
+    authors: Dawei Yan, Fei Shang, Panlong Yang, <strong>Feiyu Han</strong>, Yubo Yan, Xiang-Yang Li.
+    conference: <strong>IEEE IoTJ 2024, <font color="#FF0000">JCR-Q1 Journal</font></strong>. 
+    pdf: https://ieeexplore.ieee.org/document/10506982
+
+  - title: "EarSleep: In-ear Acoustic-based Physical and Physiological Activity Recognition for Sleep Stage Detection."
+    authors: <strong>Feiyu Han</strong>, Panlong Yang, Yuanhao Feng, Weiwei Jiang, Youwei Zhang, Xiang-Yang Li.
+    conference: <strong>ACM IMWUT/Ubicomp 2024, <font color="#FF0000">CCF-A Conference</font></strong>. 
+    pdf: https://dl.acm.org/doi/10.1145/3659595
+    demo: https://www.youtube.com/watch?v=23MpIv_BaVc&t=5s
+    slide: ./assets/files/imwut-EarSleep-han.pdf
+
+  - title: "MultiRider: Enabling Multi-Tag Concurrent OFDM Backscatter by Taming In-band Interferences."
+    authors: Shanyue Wang, Yubo Yan, <strong>Feiyu Han</strong>, Ye Tian, Yuxin Ding, Panlong Yang, Xiang-Yang Li.
+    conference: <strong>ACM MobiSys 2024, <font color="#FF0000">CCF-B Conference</font></strong>. 
+    pdf: https://dl.acm.org/doi/10.1145/3643832.3661862
+    # demo: https://www.youtube.com/watch?v=23MpIv_BaVc&t=5s
+
+  - title: "Wi-Cyclops: Room-Scale WiFi Sensing System for Respiration Detection Based on Single-Antenna."
+    authors: <strong>Youwei Zhang, Feiyu Han</strong>(Co-first Author), Panlong Yang, Yuanhao Feng, Yubo Yan, Ran Guan.
+    conference: <strong>ACM TOSN 2024, <font color="#FF0000">CCF-B Journal</font></strong>. 
+    pdf: https://dl.acm.org/doi/10.1145/3632958
+
+  - title: "Accuth$^+$: Accelerometer-based Anti-Spoofing Voice Authentication on Wrist-worn Wearables."
+    authors: <strong>Feiyu Han</strong>, Panlong Yang, Haohua Du, Xiang-Yang Li.
+    conference: <strong>IEEE TMC 2024, <font color="#FF0000">CCF-A Journal</font></strong>. 
+    pdf: https://ieeexplore.ieee.org/document/10250998
+
+  - title: "BreathSign: Transparent and Continuous In-ear Authentication Using Bone-conducted Breathing Biometrics."
+    authors: <strong>Feiyu Han</strong>, Panlong Yang, Shaojie Yan, Haohua Du, Yuanhao Feng.
+    conference: <strong>IEEE INFOCOM 2023, <font color="#FF0000">CCF-A Conference</font></strong>. 
+    pdf: https://ieeexplore.ieee.org/document/10229037
+    slide: 
+  - title: "Accuth: Anti-Spoofing Voice Authentication via Accelerometer."
+    authors: <strong>Feiyu Han</strong>, Panlong Yang, Haohua Du, Xiang-Yang Li.
+    conference: <strong>ACM SenSys 2022, <font color="#FF0000">CCF-B Conference</font></strong>. 
+    pdf: https://dl.acm.org/doi/abs/10.1145/3560905.3568522
+
