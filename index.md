@@ -14,13 +14,13 @@ I got my PhD degree at [University of Science and Technology of China](https://e
 
 ## News
 
-- **[2024.12]** One paper about WiFi backscatter was accepted by **IEEE INFOCOM <u>(CCF-A)</u>**! Our team was awarded the **Second Prize in CCF TEC 2024**!
-- **[2024.11]**One paper about wearable user authentication was accept by **Journal of Cybersecurity! (网络空间安全科学学报)**.
-- **[2024.10]** Two papers about mobile sensing were accept by **IEEE MSN 2024<u>(CCF-C)</u>**! One paper about earable speech recognition was accepted by **IEEE UIC 2024 <u>(CCF-C)</u>!**. 
-- **[2024.08]** One paper about earable passive user authentication was accept by **IEEE TMC <u>(CCF-A)</u>!** One paper about wireless-based gait recognition was accepted by **ACM MobiHoc 2024 <u>(CCF-B)</u>!**. 
-- **[2024.07]** One paper about earable-based speech enhancement was accepted by **ACM IMWUT/Ubicomp 2024 <u>(CCF-A)</u>**! 
-- **[2024.04]** One paper about earbud-based sleep monitoring was accepted by **ACM IMWUT/Ubicomp 2024 <u>(CCF-A)</u>**! One paper about WiFi-based cross-domain localization was accepted by **IEEE IoT Journal <u>(JCR-Q1)</u>**. One Paper about WiFi backscatter was accepted by **IEEE IWQOS 2024 <u>(CCF-B)</u>**. Congratulations to all collaborators!
-- **[2024.03]** One paper about WiFi backscatter was accepted by **ACM MobiSys 2024 <u>(CCF-B)</u>**! 
+- **[2024.12]** One paper about WiFi backscatter was accepted by <strong><font color="#CC3300">IEEE INFOCOM (CCF-A)</font></strong>. Our team was awarded the <strong><font color="#CC3300">Second Prize in CCF TEC 2024</font></strong> .
+- **[2024.11]** One paper about wearable user authentication was accept by **Journal of Cybersecurity! (网络空间安全科学学报)**.
+- **[2024.10]** Two papers about mobile sensing were accept by <strong><font color="#CC3300">IEEE MSN 2024 (CCF-C)</font></strong>. One paper about earable speech recognition was accepted by <strong><font color="#CC3300">IEEE UIC 2024 (CCF-C)</font></strong>. 
+- **[2024.08]** One paper about earable passive user authentication was accept by <strong><font color="#CC3300">IEEE TMC (CCF-A)</font></strong>! One paper about wireless-based gait recognition was accepted by <strong><font color="#CC3300">ACM MobiHoc 2024 (CCF-B)</font></strong>. 
+- **[2024.07]** One paper about earable-based speech enhancement was accepted by <strong><font color="#CC3300">ACM IMWUT/Ubicomp 2024 (CCF-A)</font></strong>. 
+- **[2024.04]** One paper about earbud-based sleep monitoring was accepted by <strong><font color="#CC3300">ACM IMWUT/Ubicomp 2024 (CCF-A)</font></strong>. One paper about WiFi-based cross-domain localization was accepted by <strong><font color="#CC3300">IEEE IoT Journal (JCR-Q1)</font></strong>. One Paper about WiFi backscatter was accepted by <strong><font color="#CC3300">IEEE IWQOS 2024 (CCF-B)</font></strong>. Congratulations to all collaborators.
+- **[2024.03]** One paper about WiFi backscatter was accepted by <strong><font color="#CC3300">ACM MobiSys 2024 (CCF-B)</font></strong>. 
 
 
 
