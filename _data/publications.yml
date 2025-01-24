@@ -10,15 +10,23 @@ main:
   #   notes: Oral Presentation
   #   image: ./assets/img/teaser_example.png
 
+  - title: "EAROE: Enabling Body-Channel Voice Interaction Interface on Earphones via Occlusion Effect."
+    authors: <strong>Feiyu Han</strong>, You Zuo, Weiwei Jiang, Dawei Yan, Yuxin Zhao, Panlong Yang, Yubo Yan.
+    conference: <strong>IEEE IoT Journal 2025, <font color="#FF0000">JCR-Q1 Journal</font>. </strong>
+    pdf: https://ieeexplore.ieee.org/abstract/document/10843381/
+    page: https://github.com/Claireyouyou/OE-VI2
+
   - title: "Exploring Earable-based Passive User Authentication via Interpretable In-ear Breathing Biometrics."
     authors: <strong>Feiyu Han</strong>, Panlong Yang, Yuanhao Feng, Haohua Du, Xiang-Yang Li.
     conference: <strong>IEEE TMC 2024, <font color="#FF0000">CCF-A Journal</font>. </strong> 
     pdf: https://ieeexplore.ieee.org/abstract/document/10663927
 
+
   - title: "freeGait: Liberalizing Wireless-based Gait Recognition to Mitigate Non-gait Human Behaviors."
     authors: Dawei Yan, Panlong Yang, Fei Shang, <strong>Feiyu Han</strong>, Yubo Yan, Xiang-Yang Li. 
     conference: <strong>ACM MobicHoc 2024, <font color="#FF0000">CCF-B Conference</font>. </strong> 
     pdf: https://dl.acm.org/doi/10.1145/3641512.3686362
+
   - title: "EarSpeech: Exploring In-Ear Occlusion Effect on Earphones For Data-efficient Airborne Speech Enhancement."
     authors: <strong>Feiyu Han</strong>, Panlong Yang, You Zuo, Fei Shang, Fenglei Xu, Xiang-Yang Li.
     conference: <strong>ACM IMWUT/Ubicomp 2024, <font color="#FF0000">CCF-A Conference</font></strong>. 
