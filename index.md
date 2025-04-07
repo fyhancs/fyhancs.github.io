@@ -2,18 +2,19 @@
 layout: homepage
 ---
 
-## About Me
+<!-- ## About Me -->
 
 I got my PhD degree at [University of Science and Technology of China](https://en.ustc.edu.cn/) (USTC) under the supervision of Prof. Panlong Yang and Prof. Xiang-Yang Li (ACM/IEEE Fellow). Now, I am in [Nanjing University of Information Science and Technology](https://en.nuist.edu.cn/main.psp) (NUIST). My research interests span across mobile/wireless sensing, smart health monitoring, and ubiquitous computing. Researchers are welcome to contact me with E-mail and look forward to our cooperation to make meaningful research contributions! 
 
 
-## Experience
+<!-- ## Experience -->
 - 2024.08 - present: School of Computer Science, School of Cyber Science and Engineering at Nanjing University of Information Science and Technology.
 - 2019.06 -  2024.06: School of Computer Science and Technology at University of Science and Technology of China, PhD.
 - 2015.09 - 2019.06: School of Computer Science and Engineering at Nanjing University of Science and Technology, Bachelor.
 
 ## News
 
+- **[2025.04]** I am honored to join the **MobiCom 2025 Artifact Evaluation Program Committee**
 - **[2025.01]** One paper about Earable-based speech construction was accepted by <strong><font color="#C00200">IEEE IoT Journal (JCR-Q1)</font></strong>. 
 - **[2024.12]** One paper about WiFi backscatter was accepted by <strong><font color="#C00200">IEEE INFOCOM (CCF-A)</font></strong>. Our team was awarded the <strong><font color="#C00200">Second Prize in CCF TEC 2024</font></strong> .
 - **[2024.11]** One paper about wearable user authentication was accept by **Journal of Cybersecurity! (网络空间安全科学学报)**.
