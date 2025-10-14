@@ -8,7 +8,9 @@ html {
 }
 
 body {
-  font-family: Times,"TimesNewRoman",serif;
+	/*font-family: Times,"TimesNewRoman",serif;*/
+  font-family:"Georgia", "Times New Roman", serif;
+  /*font-family: Helvetica Neue, Helvetica, sans-serif;*/
   color: #000;
   background-color: #ffffff;
   text-align:left; /* for IE */
@@ -20,8 +22,9 @@ body {
   padding-right: 50px;
   padding-top: 10px;
   padding-bottom: 50px;
-  max-width: 960px;
+  max-width: 1000px;
   min-width: 600px;
+  font-size: 17px;
 }
 
 #layout-menu {
@@ -63,7 +66,7 @@ tt {
 }
 
 pre, tt {
-	font-size: 90%;
+	font-size: 100%;
 	font-family: monaco, monospace;
 }
 
@@ -129,7 +132,7 @@ strong {
 
 
 h1, h2, h3 {
-	color: #527bbd;
+	color: #0000ff;
 	margin-top: 0.7em;
 	margin-bottom: 0.3em;
 	padding-bottom: 0.2em;
@@ -139,7 +142,7 @@ h1, h2, h3 {
 }
 
 h1 {
-	font-size: 165%;
+	font-size: 135%;
 }
 
 h2 {
